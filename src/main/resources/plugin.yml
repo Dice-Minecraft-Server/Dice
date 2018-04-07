@@ -1,0 +1,6 @@
+name: Dice
+main: me.sheiun.dice.Dice
+version: 1
+authors: 
+    - SheiUn
+description: Dice.
